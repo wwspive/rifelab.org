@@ -1,4 +1,4 @@
-Visit **[fieldpheno.github.io/fieldpheno.org](https://fieldpheno.github.io/fieldpheno.org)** 🚀
+Visit **[fieldpheno.org](http://fieldpheno.org)** 🚀
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">
