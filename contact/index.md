@@ -24,6 +24,7 @@ Our lab is part of the [Department of Plant and Environmental Sciences](https://
 
 {% include section.html %}
 
+
 {% capture content %}
 {% include figure.html image="images/contact/pdr-office.jpg" %}
 {% include figure.html image="images/contact/pdr-overhead.jpg" %}
@@ -32,5 +33,4 @@ Our lab is part of the [Department of Plant and Environmental Sciences](https://
 {%
   include grid.html
   content=content
-  style="square"
 %}
