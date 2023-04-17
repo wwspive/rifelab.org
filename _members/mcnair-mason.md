@@ -8,7 +8,6 @@ aliases:
 links:
   home-page: https://fieldpheno.org
   github: mmcnair91
-  printables: https://www.printables.com/social/54296-amiiglows/
   email: mcnair5@clemson.edu
   twitter: SarraceniaMason
 ---
