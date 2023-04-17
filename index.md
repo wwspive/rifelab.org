@@ -1,22 +1,9 @@
 ---
 ---
 
-# Lab Website Template
+# Practical phenomics for plant scientists
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/).
-Spend less time worrying about managing a website and citations, and more time running your lab.
-
-{%
-  include button.html
-  type="docs"
-  link="https://greene-lab.gitbook.io/lab-website-template-docs"
-%}
-{%
-  include button.html
-  type="github"
-  text="On GitHub"
-  link="greenelab/lab-website-template"
-%}
+The Rife Lab is a team of researchers at [Clemson University](https://www.clemson.edu/) focused on developing the next generation of tools to effectively collect and manage phenotypic and phenomic data for plant breeding and genetics research. We work with scientists to design novel solutions that allow breeders to efficiently develop the improved crops necessary to feed a growing global population.
 
 {% include section.html %}
 
@@ -24,7 +11,7 @@ Spend less time worrying about managing a website and citations, and more time r
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We strive to share our research with the broader scientific community, prioritizing transparency, rigor, and reproducibility.
 
 {%
   include button.html
@@ -39,15 +26,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/home/laptop-paper.jpg"
+  link="publications"
+  title="Our Publications"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We design, develop, and validate tools that are used by thousands of breeders across diverse plant species. All of our software, tools, and datasets are freely available and openly licensed.
 
 {%
   include button.html
@@ -62,7 +49,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/uav-wheat.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -72,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a growing team of enthusiastic researchers that are designing the future of data in plant breeding and genetics. We aim to build an inclusive environment for research, and recognize the value of diversity in the process of discovery.
 
 {%
   include button.html
@@ -87,7 +74,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/chip-team.jpg"
   link="team"
   title="Our Team"
   text=text
