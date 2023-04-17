@@ -2,7 +2,6 @@
 name: Mason McNair
 image: images/team/mason-mcnair.jpg
 role: postdoc
-group: current
 aliases:
   - M. McNair
   - M.C. McNair

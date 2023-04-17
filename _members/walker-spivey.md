@@ -2,7 +2,6 @@
 name: Walker Spivey
 image: images/team/walker-spivey.JPG
 role: phd
-group: current
 description: PhD Graduate Student
 aliases:
   - W.W. Spivey

@@ -24,3 +24,20 @@ The vast availability of genomic data over the last decade has created a new bot
 ## More
 
 {% include list.html component="card" data="projects" filters="group: more" style="small" %}
+
+## Funding
+
+{% capture content %}
+[![US Agency for International Development](/images/funding/usaid.png)](https://www.usaid.gov/)
+
+[![USDA National Institute of Food and Agriculture](/images/team/national-cancer-institute.png)](https://www.cancer.gov/)
+
+[![National Science Foundation](/images/funding/nsf.png)](https://nsf.gov/)
+
+[![Cotton Incorporated](/images/funding/cotton-inc.png)](https://www.cottoninc.com/)
+
+{% endcapture %}
+
+{% include grid.html content=content %}
+
+{% include section.html %}
