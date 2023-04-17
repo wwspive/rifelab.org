@@ -1,13 +1,13 @@
 # site properties and page defaults
-title: Rife Lab
-subtitle: at Clemson university
-description: Research lab at Clemson University developing new tools for plant breeding.
+title: FieldPheno
+subtitle: 
+description: An engaging 1-3 sentence description of your lab.
 header: images/backgrounds/background-header.jpg
 footer: images/backgrounds/background-footer.jpg
 
 # site social media and other links
 links:
-  email: twrife@clemson.edu
+  email: contact@FieldPheno.com
   orcid: 0000-0002-5974-6523
   google-scholar: m4sw8RQAAAAJ
   github: FieldPheno
