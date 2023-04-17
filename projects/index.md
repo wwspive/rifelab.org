@@ -1,7 +1,7 @@
 ---
 title: Projects
 nav:
-  order: 1
+  order: 2
   tooltip: Software, datasets, and more
 ---
 
@@ -17,10 +17,10 @@ The vast availability of genomic data over the last decade has created a new bot
 
 ## Featured
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="tools" filters="group: more" style="small" %}
+{% include list.html component="card" data="projects" filters="group: more" style="small" %}
