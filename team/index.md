@@ -20,8 +20,8 @@ Our lab is made up of a highly engaged and collaborative team of researchers. We
 We work with a wide range of outstanding groups from around the world, and we're always on the lookout for new and unique perspectives.
 
 {%
-  include link.html
-  icon="fas fa-hands-helping"
+  include button.html
+  icon="fa-solid fa-handshake-angle"
   text="Join the Team"
   link="join"
   style="button"
