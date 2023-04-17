@@ -12,6 +12,7 @@
   date: '2022-02-08'
   link: https://doi.org/gpzkrw
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: sources.py
   file: sources.yaml
   image: https://raw.githubusercontent.com/PhenoApps/Intercross/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
@@ -25,11 +26,13 @@
   - plant breeding
 - id: eid:2-s2.0-85124559685
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: eid:2-s2.0-85134202112
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -97,6 +100,7 @@
   date: '2022-04-06'
   link: https://doi.org/gpzmnf
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: sources.py
   file: sources.yaml
   image: images/publications/morales2022.png
@@ -108,6 +112,7 @@
   - database
 - id: eid:2-s2.0-85130460053
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -125,10 +130,12 @@
   date: '2022-01-01'
   link: https://doi.org/gr5fcx
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
 - id: eid:2-s2.0-85121841532
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -146,6 +153,7 @@
   date: '2021-01-01'
   link: https://doi.org/gn9hhw
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: sources.py
   file: sources.yaml
   image: https://raw.githubusercontent.com/PhenoApps/Prospector/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
@@ -159,16 +167,19 @@
   - NIR
 - id: eid:2-s2.0-85110870148
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: eid:2-s2.0-85106375312
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: eid:2-s2.0-85096011011
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -203,6 +214,7 @@
   date: '2020-11-12'
   link: https://doi.org/gpzkw5
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00122-020-03712-y/MediaObjects/122_2020_3712_Fig4_HTML.png?as=webp
@@ -219,6 +231,7 @@
   date: '2019-05-01'
   link: https://doi.org/gpzkw4
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: sources.py
   file: sources.yaml
   image: images/publications/rife2019.png
@@ -227,6 +240,7 @@
   - plant breeding
 - id: eid:2-s2.0-85067945687
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -293,6 +307,7 @@
   date: '2019-03-23'
   link: https://doi.org/gjgxxr
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: sources.py
   file: sources.yaml
   image: images/publications/selby2019.png
@@ -305,6 +320,7 @@
   - api
 - id: eid:2-s2.0-85067510305
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -319,6 +335,7 @@
   date: '2018-11-01'
   link: https://doi.org/gfvkk6
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: sources.py
   file: sources.yaml
   image: https://acsess.onlinelibrary.wiley.com/cms/asset/f26a7604-f2ef-4266-abc1-bc16a5705af3/tpg2plantgenome2018010004-fig-0001-m.jpg
@@ -327,6 +344,7 @@
   - plant breeding
 - id: eid:2-s2.0-85057298029
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -350,6 +368,7 @@
   date: '2018-06-02'
   link: https://doi.org/gdzh3w
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs00122-018-3107-5/MediaObjects/122_2018_3107_Fig1_HTML.png?as=webp
@@ -358,26 +377,31 @@
   - pre-harvest sprouting
 - id: eid:2-s2.0-85047916933
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: eid:2-s2.0-85031699632
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: eid:2-s2.0-85031112613
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: eid:2-s2.0-84991509193
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
 - id: eid:2-s2.0-85028261089
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -394,6 +418,7 @@
   date: '2016-05-10'
   link: https://doi.org/f8wn93
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: sources.py
   file: sources.yaml
   image: images/publications/tack2015.jpg
@@ -412,6 +437,7 @@
   date: '2015-03-28'
   link: https://doi.org/f7bqgp
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12864-015-1404-9/MediaObjects/12864_2015_1404_Fig3_HTML.gif?as=webp
@@ -420,6 +446,7 @@
   - gbs
 - id: eid:2-s2.0-84928140867
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -433,6 +460,7 @@
   date: '2014-07-01'
   link: https://doi.org/f584rr
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: sources.py
   file: sources.yaml
   image: https://raw.githubusercontent.com/PhenoApps/Field-Book/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
@@ -446,6 +474,7 @@
   - plant breeding
 - id: eid:2-s2.0-84903127374
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
@@ -458,6 +487,7 @@
   date: '2012-11-01'
   link: https://doi.org/gfzn68
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: sources.py
   file: sources.yaml
   image: https://acsess.onlinelibrary.wiley.com/cms/asset/1b72a9c4-f075-4290-a68c-cf4d7aa187d6/tpg2plantgenome2012050005-fig-0003-m.jpg
@@ -467,6 +497,7 @@
   - gbs
 - id: eid:2-s2.0-84875444971
   orcid: 0000-0002-5974-6523
+  member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
   date: ''
