@@ -41,3 +41,5 @@ The vast availability of genomic data over the last decade has created a new bot
 {% endcapture %}
 
 {% include grid.html content=content %}
+
+{% include section.html %}
