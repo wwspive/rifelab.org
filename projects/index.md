@@ -25,6 +25,8 @@ The vast availability of genomic data over the last decade has created a new bot
 
 {% include list.html component="card" data="projects" filters="group: more" style="small" %}
 
+{% include section.html %}
+
 ## Funding
 
 {% capture content %}
@@ -39,5 +41,3 @@ The vast availability of genomic data over the last decade has created a new bot
 {% endcapture %}
 
 {% include grid.html content=content %}
-
-{% include section.html %}

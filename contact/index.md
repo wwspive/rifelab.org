@@ -25,12 +25,11 @@ Our lab is part of the [Department of Plant and Environmental Sciences](https://
 
 {% include section.html %}
 
-{% capture content %}
+{% capture col1 %}{% include figure.html image="images/contact/pdr-office.jpg" width="100%" %}{% endcapture %}
+{% capture col2 %}{% include figure.html image="images/contact/pdr-overhead.jpg" width="100%" %}{% endcapture %}
 
-{% include figure.html image="images/contact/pdr-office.jpg" width="100%" %}
-
-{% include figure.html image="images/contact/pdr-overhead.jpg" width="100%" %}
-
-{% endcapture %}
-
-{% include grid.html content=content %}
+{%
+  include cols.html
+  col1=col1
+  col2=col2
+%}
