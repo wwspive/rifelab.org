@@ -15,6 +15,7 @@ Our lab is part of the [Department of Plant and Environmental Sciences](https://
   text="twrife@clemson.edu"
   link="twrife@clemson.edu"
 %}
+
 {%
   include button.html
   type="address"
@@ -22,32 +23,14 @@ Our lab is part of the [Department of Plant and Environmental Sciences](https://
   link="https://www.google.com/maps/place/Pee+Dee+Research+and+Education+Center/@34.2877369,-79.7444489,2444m/data=!3m1!1e3!4m13!1m7!3m6!1s0x88554282e98bc589:0xdb509cbd90678b3d!2s2200+Pocket+Rd,+Darlington,+SC+29532!3b1!8m2!3d34.2833676!4d-79.7507164!3m4!1s0x0:0x47c01bc25f000c20!8m2!3d34.2890417!4d-79.738225?hl=en"
 %}
 
-## <i class="fas fa-mail-bulk"></i>Mailing Address
-
-Clemson Pee Dee Research & Education Center
-2200 Pocket Rd. Florence, SC  29506
-
-{:.center}
-
 {% include section.html %}
 
-{:.center}
-{% capture col1 %}
+{% capture content %}
 
-{%
-  include figure.html
-  image="images/contact/pdr-office.jpg"
-%}
+{% include figure.html image="images/contact/pdr-office.jpg" %}
+
+{% include figure.html image="images/contact/pdr-overhead.jpg" %}
 
 {% endcapture %}
 
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/contact/pdr-overhead.jpg"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
+{% include grid.html content=content %}
