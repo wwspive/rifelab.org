@@ -15,7 +15,7 @@ We strive to share our research with the broader scientific community, prioritiz
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
