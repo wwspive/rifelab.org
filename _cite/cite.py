@@ -137,7 +137,7 @@ for index, source in enumerate(sources):
             else:
                 log(e, 3, "WARNING")
                 # discard source
-                # continue
+                continue
 
     # preserve fields from input source, overriding existing fields
     citation.update(source)
