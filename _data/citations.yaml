@@ -24,18 +24,6 @@
   tags:
   - phenoapps
   - plant breeding
-- id: eid:2-s2.0-85124559685
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85134202112
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1093/g3journal/jkac078
   title: 'Breedbase: a digital ecosystem for modern plant breeding'
   authors:
@@ -110,12 +98,6 @@
     text: Source
   tags:
   - database
-- id: eid:2-s2.0-85130460053
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.48550/arXiv.2205.00366
   title: Fractional Vegetation Cover Estimation using Hough Lines and Linear Iterative
     Clustering
@@ -133,12 +115,6 @@
   member: trevor-rife
   plugin: orcid.py
   file: orcid.yaml
-- id: eid:2-s2.0-85121841532
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1002/ppj2.20024
   title: "Prospector: A mobile application for portable, high\u2010throughput near\u2010\
     infrared spectroscopy phenotyping"
@@ -165,24 +141,6 @@
   tags:
   - phenoapps
   - NIR
-- id: eid:2-s2.0-85110870148
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85106375312
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85096011011
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1007/s00122-020-03712-y
   title: 'The Aegilops ventricosa 2NvS segment in bread wheat: cytology, genomics
     and breeding'
@@ -238,12 +196,6 @@
   tags:
   - wheat
   - plant breeding
-- id: eid:2-s2.0-85067945687
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1093/bioinformatics/btz190
   title: "BrAPI\u2014an application programming interface for plant breeding applications"
   authors:
@@ -318,12 +270,6 @@
     text: Source
   tags:
   - api
-- id: eid:2-s2.0-85067510305
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.3835/plantgenome2018.01.0004
   title: Genomic Analysis and Prediction within a US Public Collaborative Winter Wheat
     Regional Testing Nursery
@@ -342,12 +288,6 @@
   tags:
   - wheat
   - plant breeding
-- id: eid:2-s2.0-85057298029
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1007/s00122-018-3107-5
   title: QTL mapping of pre-harvest sprouting resistance in a white wheat cultivar
     Danby
@@ -375,36 +315,6 @@
   tags:
   - wheat
   - pre-harvest sprouting
-- id: eid:2-s2.0-85047916933
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85031699632
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85031112613
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-84991509193
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
-- id: eid:2-s2.0-85028261089
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.1111/gcb.13163
   title: "Quantifying variety\u2010specific heat resistance and the potential for\
     \ adaptation to climate change"
@@ -444,12 +354,6 @@
   tags:
   - genotyping
   - gbs
-- id: eid:2-s2.0-84928140867
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.2135/cropsci2013.08.0579
   title: "Field Book: An Open\u2010Source Application for Field Data Collection on\
     \ Android"
@@ -472,12 +376,6 @@
   tags:
   - phenoapps
   - plant breeding
-- id: eid:2-s2.0-84903127374
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
 - id: doi:10.3835/plantgenome2012.05.0005
   title: "Genotyping\u2010by\u2010Sequencing for Plant Breeding and Genetics"
   authors:
@@ -495,9 +393,3 @@
   - genotyping
   - review
   - gbs
-- id: eid:2-s2.0-84875444971
-  orcid: 0000-0002-5974-6523
-  member: trevor-rife
-  plugin: orcid.py
-  file: orcid.yaml
-  date: ''
