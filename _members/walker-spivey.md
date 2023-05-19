@@ -16,7 +16,7 @@ links:
   orcid: 0000-0002-9759-3660
   twitter: Walker_675_
   github: wwspive
-  Linked In: https://linkedin.com/in/walkerspivey675
+  linkedin: https://linkedin.com/in/walkerspivey675
 
 ---
 

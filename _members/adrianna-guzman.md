@@ -1,6 +1,6 @@
 ---
 name: Adrianna Guzman
-image: images/team/adrianna.jpg
+image: images/team/adrianna-guzman.jpg
 role: undergrad
 group: current
 aliases:
