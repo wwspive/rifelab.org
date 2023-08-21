@@ -1,4 +1,4 @@
-Visit **[rifelab.org](http://rifelab.org)** 🚀
+Visit **[www.rifelab.org](http://www.rifelab.org)** 🚀
 
 <h1 align="center">Phenomics and Crop Improvement Lab</h1>
 
