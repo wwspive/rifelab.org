@@ -32,7 +32,7 @@ The vast availability of genomic data over the last decade has created a new bot
 {% capture content %}
 [![US Agency for International Development](/images/funding/usaid.png)](https://www.usaid.gov/)
 
-[![USDA National Institute of Food and Agriculture](/images/funding/nifa.png)](https://www.cancer.gov/)
+[![USDA National Institute of Food and Agriculture](/images/funding/nifa.png)](https://www.nifa.usda.gov/)
 
 [![Cotton Incorporated](/images/funding/cotton-inc.png)](https://www.cottoninc.com/)
 
