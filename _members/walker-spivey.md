@@ -21,4 +21,4 @@ links:
 ---
 
 Walker recently completed his M.S. and is joining the lab as a Ph.D. student. His M.S. work consisted of studying the physiological and lipid-metabolism related responses to heat-stress in peanut (*Arachis hypogaea*). Walker brings a unique set of skills and knowledge to the lab which includes molecular biology techniques, management of greenhouse systems, plant pathology, & crop physiology. 
-In the Rife lab, Walker will conduct research which focuses on improving the breeding pipe line for various crops including Butter Bean (*Phaseolus lunatu*), Sorghum (*Sorghum bicolor*) and Sweet Corn (*Zea mays*). 
+In the Rife lab, Walker will conduct research which focuses on improving the breeding pipe line for various crops including lima bean (*Phaseolus lunatus*), sorghum (*Sorghum bicolor*) and sweet corn (*Zea mays*). 
