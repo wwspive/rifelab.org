@@ -1,8 +1,8 @@
 ---
 name: Walker Spivey
 image: images/team/walker-spivey.JPG
-role: phd
-description: PhD Graduate Student
+role: Ph.D.
+description: Ph.D. Graduate Student
 aliases:
   - W.W. Spivey
   - W W Spivey
@@ -11,7 +11,7 @@ aliases:
   - Walker Spivey
   - William Walker Spivey
 links:
-  home-page: https://fieldpheno.org
+  home-page: https://www.rifelab.org
   email: wwspive@clemson.edu
   orcid: 0000-0002-9759-3660
   twitter: Walker_675_
